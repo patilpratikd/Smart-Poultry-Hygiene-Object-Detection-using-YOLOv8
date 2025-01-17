@@ -1,0 +1,1 @@
+# Smart-Poultry-Hygiene-Object-Detection-using-YOLOv8
